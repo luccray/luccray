@@ -2,7 +2,7 @@
 - 👀 I’m interested in UXE
 - 🌱 I’m currently learning Front-end Development
 - 💞️ I’m looking to collaborate on Digital Projects
-- 📫 How to reach me: Linkedin - https://www.linkedin.com/in/luccray/ -
+- 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/luccray/ -
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I am addicted to cats and prototypes hahaha
 
