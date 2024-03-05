@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luccray
-- 👀 I’m interested in UXE
-- 🌱 I’m currently learning Front-end Development
+- 👀 I’m interested in UX Design and Tech
+- 🌱 I’m currently learning Digital Product Design
 - 💞️ I’m looking to collaborate on Digital Projects
 - 📫 How to reach me: LinkedIn - https://www.linkedin.com/in/luccray/ -
 - 😄 Pronouns: he/him
