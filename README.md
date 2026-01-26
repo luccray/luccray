@@ -10,11 +10,6 @@ Currently focused on:
 - Freelancing remotely for global clients
 - Exploring AI integration in UX (ethical design, personalization, conversion optimization)
 
-### Key Projects
-- [AI Dashboard Redesign](link-para-repo-ou-figma) – Increased user retention by 25%
-- [E-commerce UX Optimization](link) – Improved conversion rate through data-driven iterations
-- [Accessibility Audit & Redesign](link) – Ensured WCAG compliance for global usability
-
 ### Skills & Tools
 - UX Research & Usability Testing
 - Figma (Advanced Prototyping)
@@ -24,8 +19,7 @@ Currently focused on:
 
 ### Connect
 - LinkedIn: [https://www.linkedin.com/in/luccray/](https://www.linkedin.com/in/luccray/)
-- Behance / Dribbble: [adicionar links quando tiver]
-- Email: lucas@luccray.com (ou o que preferir)
+- Dribbble: [https://dribbble.com/luccray](https://dribbble.com/luccray)
 
 Open to remote freelance collaborations and high-impact UX projects worldwide.
 
