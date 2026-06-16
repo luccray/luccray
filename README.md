@@ -12,7 +12,6 @@ My work focuses on transforming highly technical challenges into intuitive, scal
 * UX Strategy
 * Enterprise Software
 * Design Systems
-* Front-end Development
 * AI & Computer Vision Products
 
 ## Current Focus
@@ -46,10 +45,6 @@ I occasionally write about:
 
 ## Open to Opportunities
 
-I'm open to international remote opportunities as:
-
-* Senior Product Designer
-* Lead Product Designer
-* Product Design Lead
+I'm open to international remote opportunities
 
 📍 Brazil
