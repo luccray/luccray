@@ -1,50 +1,24 @@
-# Hi, I'm Lucas 👋
+# Hi, I'm Lucas Neves 👋
 
-Product Designer focused on complex AI-powered enterprise systems.
+**Senior Product Designer** focused on creating intuitive, intelligent and future-proof digital experiences in the age of AI.
 
-Currently leading UX and Front-end for ALGO360 at Petrobras, a strategic R&D initiative that applies Computer Vision, Artificial Intelligence, and 3D reconstruction to support offshore asset integrity.
+Currently leading UX and Front-end for **ALGO360** at Petrobras — a strategic R&D initiative applying Computer Vision, Artificial Intelligence, and 3D reconstruction to offshore asset integrity.
 
-My work focuses on transforming highly technical challenges into intuitive, scalable, and actionable user experiences.
-
-## What I do
-
-* Product Design
-* UX Strategy
-* Enterprise Software
-* Design Systems
-* AI & Computer Vision Products
+I specialize in transforming highly complex technical challenges into human-centered, scalable products that deliver real business value. I work closely with Engineering, Product Managers, and Data Science teams throughout the entire product lifecycle.
 
 ## Current Focus
-
-I'm particularly interested in the intersection of:
-
-* Artificial Intelligence
-* Human-Computer Interaction
-* Data Visualization
-* Enterprise UX
-* Design Systems
-* Product Strategy
+- AI-Powered User Experiences
+- Complex Enterprise Product Design
+- Design Systems at Scale
+- Human-AI Interaction
 
 ## Background
-
-* Product Designer at Petrobras projects
-* UX professional since 2022
-* Bachelor's Degree in Graphic Design
-* Experience working alongside Engineering and Data Science teams
-* Experience with SAFe environments and large-scale enterprise products
-
-## Writing
-
-I occasionally write about:
-
-* Product Design
-* UX Strategy
-* AI-Powered Products
-* Design Systems
-* Career Growth
+- Leading Product Design at Petrobras (ALGO360 Project)
+- UX Professional since 2022
+- Bachelor's Degree in Graphic Design
+- Experience in SAFe environments and large-scale enterprise products
 
 ## Open to Opportunities
+**Open to international remote opportunities** as Senior Product Designer or Product Design Lead.
 
-I'm open to international remote opportunities
-
-📍 Brazil
+📍 Brazil | UTC-3 | Available for global projects
